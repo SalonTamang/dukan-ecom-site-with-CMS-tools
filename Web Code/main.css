@@ -1,0 +1,119 @@
+body {
+    background-color: #ffffff;
+}
+/* modifies the size and shadow of the website name */
+.web-name {
+    font-size: 60px;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-shadow: 3px 3px #141414;
+}
+/* display the navagation bar in-line and in blocks */
+nav li a {
+	display: block;
+	padding: 10px 15px; 
+	background-color: #ffffff;
+	color: rgb(0, 0, 0);
+	text-decoration: none;
+	text-align: center;
+	font-size: 20px;
+}
+nav li {
+	float: left;
+    margin-left: 15px;
+    margin-right: 15px;
+}
+nav ul {
+  list-style-type: none;
+  overflow: hidden;
+  margin: 0px;
+  padding: 0px;
+}
+.nav-bar {
+    margin-top: 18px;
+}
+/* add background color to the nav bar of the currently running page */
+.running {
+    background-color: #828d97;
+    border-radius: 380px;
+}
+/* add background color to the nav bar selected page */
+nav li a:hover {
+	background-color: #828d97;
+    border-radius: 360px;
+}
+.text3 {
+    font-size: 25px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: #828d97;
+}
+/* modifies the line to separate the footer from the rest of the page */
+hr {
+    margin-top: 5%;
+    margin-left: 20%;
+    text-align: center;
+    width: 60%;
+    border-width: 2px;
+    color: #141414;
+}
+.main-image {
+    border-radius: 400px;
+    height: 100%;
+    margin-left: 50px;
+}
+.text1 {
+    font-size: 50px;
+    text-shadow: 3px 3px #141414;
+    padding-top: 250px;
+}
+.shop-button {
+    margin-top: 20px;
+    margin-left: 30%;
+    width: 150px;
+    height: 50px;
+    border-radius: 360px;
+    background-color:antiquewhite;
+}
+/* changes the background color of the button when you put the cursor over it */
+.shop-button:hover {
+    background-color: #1fe4d3;
+}
+.text2 {
+    text-align: center;
+    text-shadow: 2px 2px rgb(0, 0, 0);
+    font-size: 40px;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+}
+.sec-image {
+    width: 350px;
+    height: 350px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border: 5px outset rgb(255, 255, 255);
+    border-radius: 20%;
+}
+/* modifies the size and font of the produts nav bar */
+.mini-nav a {
+    font-size: 15px;
+    font-family:'Times New Roman', Times, serif;
+}
+.shop-item {
+    width: 300px;
+}
+.add-cart {
+    width: 130px;
+    height: 35px;
+    border-radius: 10px;
+    background-color:antiquewhite;
+}
+.add-cart:hover {
+    background-color: rgb(33, 183, 194);
+}
+.item-image {
+    width: 298px;
+    height: 380px;
+}
+/* makes the image rounded */
+.login-image {
+    border-radius: 50%;
+}
