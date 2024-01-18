@@ -1,9 +1,9 @@
-# 🛒Dokan 
-Introducing Dokan, an e-commerce website with variable options to buy and order branded clothes, watches and jewellry.
+# 🛒Dukan 
+Introducing Dukan, an e-commerce website with variable options to buy and order branded clothes, watches and jewellry.
 This site was built by a group of three students for second coursework of web development and databases module. The code contains both website view and CMS tools to interact with.
 
 # 📓 Learning from this project 
-Through Dokan, I have learned valuable in-group project handling skills like **`time management`**, **`task assignment`**, **`leadership skills`**, and **`collaborative learning`**.
+Through Dukan, I have learned valuable in-group project handling skills like **`time management`**, **`task assignment`**, **`leadership skills`**, and **`collaborative learning`**.
 
 # 🧰 Languages and Tools
 
