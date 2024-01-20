@@ -2,6 +2,16 @@
 Introducing Dukan, an e-commerce website with variable options to buy and order branded clothes, watches and jewellry.
 This site was built by a group of three students for second coursework of web development and databases module. The code contains both website view and CMS tools to interact with.
 
+<details open>
+<summary><h1>🖼️ Screenshots from the project</h1></summary>
+  <h3>Main section</h3>
+  <img src='https://github.com/SalonTamang/blob/main/home.jpeg?raw=true' height='300'>
+  <h3>Registration section</h3>
+  <img src='https://github.com/SalonTamang/blob/main/registration.jpeg?raw=true' height='300'>
+  <h3>Men's section</h3>
+  <img src='https://github.com/SalonTamang/blob/main/mens.jpeg?raw=true' height='300'>
+</details>
+
 # 📓 Learnings from this project 
 Through Dukan, I have learned valuable in-group project handling skills like **`time management`**, **`task assignment`**, **`leadership skills`**, and **`collaborative learning`**.
 
