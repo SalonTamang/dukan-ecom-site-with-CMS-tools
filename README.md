@@ -5,11 +5,13 @@ This site was built by a group of three students for second coursework of web de
 <details open>
 <summary><h1>🖼️ Screenshots from the project</h1></summary>
   <h3>Main section</h3>
-  <img src='https://github.com/SalonTamang/blob/main/home.jpeg?raw=true' height='300'>
+  <img src='https://github.com/SalonTamang/dukan-ecom-site-with-CMS-tools/blob/main/home.jpeg?raw=true' height='300'>
   <h3>Registration section</h3>
-  <img src='https://github.com/SalonTamang/blob/main/registration.jpeg?raw=true' height='300'>
+  <img src='https://github.com/SalonTamang/dukan-ecom-site-with-CMS-tools/blob/main/register.jpeg?raw=true' height='300'>
   <h3>Men's section</h3>
-  <img src='https://github.com/SalonTamang/blob/main/mens.jpeg?raw=true' height='300'>
+  <img src='https://github.com/SalonTamang/dukan-ecom-site-with-CMS-tools/blob/main/Mens.jpeg?raw=true' height='300'>
+  <h3>Cart section</h3>
+  <img src='https://github.com/SalonTamang/dukan-ecom-site-with-CMS-tools/blob/main/cart.jpeg?raw=true' height='300'>
 </details>
 
 # 📓 Learnings from this project 
